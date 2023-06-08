@@ -617,6 +617,7 @@ Children:
         DataType: String
         Value: "O50P1.Temperature"
     - Name: Current
+      Id: g=35a5897368752cfc09bfe99afd5909c2
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -1201,6 +1202,7 @@ Children:
         DataType: String
         Value: "O50P2.Temperature"
     - Name: Current
+      Id: g=88423f5361145fdc7cf74f7d831ee48c
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -1785,6 +1787,7 @@ Children:
         DataType: String
         Value: "O50P3.Temperature"
     - Name: Current
+      Id: g=03553ef6c2bd38b753843e7c91e4730e
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -2369,6 +2372,7 @@ Children:
         DataType: String
         Value: "O50P4.Temperature"
     - Name: Current
+      Id: g=f983df0a7f836d66e14b7e80c59a4ba5
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -2953,6 +2957,7 @@ Children:
         DataType: String
         Value: "O50P5.Temperature"
     - Name: Current
+      Id: g=c8b0c56f3409c183763f37237f0aa896
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -4162,6 +4167,7 @@ Children:
         DataType: String
         Value: "O50Trasd.PR1"
   - Name: O51SvOut
+    Id: g=93ac401e5627d9afdf74ba5e24be3e66
     Type: EthernetIPTag
     DataType: Float
     ValueRank: OneDimension
