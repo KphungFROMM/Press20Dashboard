@@ -3542,6 +3542,7 @@ Children:
         DataType: String
         Value: "O50P6.Temperature"
     - Name: Current
+      Id: g=a272dc76c1f2d5145452172842e2b0be
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
@@ -4126,6 +4127,7 @@ Children:
         DataType: String
         Value: "O50P7.Temperature"
     - Name: Current
+      Id: g=de4179e5813e059f5152edc0ef083aaf
       Type: EthernetIPTag
       DataType: Float
       Value: 0.0
