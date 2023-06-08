@@ -4623,7 +4623,7 @@ Children:
               DataType: String
               ReferenceType: HasParameter
               ModellingRule: Optional
-              Value: "{0}*0.18+32"
+              Value: "{0}*0.1"
             - Name: ns=2;Source0
               Type: BaseDataVariableType
               DataType: BaseDataType
@@ -4901,7 +4901,7 @@ Children:
               DataType: String
               ReferenceType: HasParameter
               ModellingRule: Optional
-              Value: "{0}*0.18+32"
+              Value: "{0}*0.1"
             - Name: ns=2;Source0
               Type: BaseDataVariableType
               DataType: BaseDataType
